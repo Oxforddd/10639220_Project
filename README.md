@@ -1,5 +1,6 @@
 # 10639220_Project
 Path planning methods using Basis Spline algorithms
+A multitude of individual programs were created, all of which can be found here. Most of these programs were developed into functions and combined into later versions of the system.
 
 REFERENCING
 This work is described in the report
